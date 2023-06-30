@@ -43,7 +43,16 @@
 
 ## Napoje
 
-<img src = "img/pexels-julie-aagaard-2097090.jpg" width = 300>
+<img src = "img/pexels-chiaroscuro-10684607.jpg" width = 300>
+
+|Lp. |Nazwa:                                                                                                       |pojemność:| 330 ml | 500 ml |
+|----|-------------------------------------------------------------------------------------------------------------|----------|--------|--------|
+|1.  |Woda niegazowana                                                                                             |          |5 zł    |10 zł   |
+|2.  |Woda gazowana                                                                                                |          |5 zł    |10 zł   |
+|3.  |Sok pomarańczowy                                                                                             |          |7 zł    |12 zł   |
+|4.  |Sok jabłkowy                                                                                                 |          |7 zł    |12 zł   |
+|5.  |Piwo                                                                                                         |          |10 zł   |15 zł   |
+|6.  |Piwo ciemne                                                                                                  |          |12 zł   |17 zł   |
 
 
 
