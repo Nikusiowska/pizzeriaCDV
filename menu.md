@@ -30,3 +30,21 @@
 |5.  |BSPINACI E POLLO (kurczak, gorgonzola, liście szpinaku, czosnek, ser emilgrana, sos śmietanowy)              |         |30 zł  |36 zł  |
 |6.  |NERO GAMBERI (krewetki, pomidorki cherry, cukinia, czosnek, peperoni, natka pietruszki, sos winno-maślany)   |         |35 zł  |41 zł  |
 
+## Sałatki
+
+<img src = "img/pexels-julie-aagaard-2097090.jpg" width = 300>
+
+|Lp. |Nazwa:                                                                                                       |porcja:  | 450 g | 
+|----|-------------------------------------------------------------------------------------------------------------|---------|-------|
+|1.  |CEZAR (grillowany filet z kurczaka, sałata rzymska, jajko, pomidorki cherry, sos cezar, grzanki)             |         |29 zł  |
+|2.  |GRILLOWANY KURCZAK (grillowany kurczak, pomidorki cherry, truskawki, melon, mix sałat, sos vinegrette)       |         |29 zł  |
+|3.  |GRILLOWANE HALLOUMI (grillowane halloumi, truskawki, pomidorki cherry, ogórek, mix sałat, sos vinegrette)    |         |31 zł  |
+|4.  |SER KOZI (kozi ser, pestki dyni, gruszka, pomidorki cherry, winogrono, arbuz, mix sałat, sos vinegrettee)    |         |33 zł  |
+
+## Napoje
+
+<img src = "img/pexels-julie-aagaard-2097090.jpg" width = 300>
+
+
+
+
