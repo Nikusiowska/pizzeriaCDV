@@ -1,2 +1,13 @@
 # Zespół
-treść
+
+## Kierownik
+
+## Manager
+
+## Dostawca
+
+## Grafik
+
+## Kucharz
+
+## Obsługa
