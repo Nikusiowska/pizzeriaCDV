@@ -17,6 +17,21 @@
 |9.  |BAR A VERDE (sos śmietanowy, mozzarella Cammino D’Oro, speck, zielone szparagi, gorgonzola, ricotta)         |         |39 zł  |50 zł  |60 zł  |
 |10. |QUATTRO FROMAGGI (sos z pomidorów pelati, mozzarella Cammino D'Oro, Taleggio D.O.P., scamorza, ser emilgrana |         |39 zł  |50 zł  |60 zł  |
 
+## Pizze wegetariańskie
+
+<img src = "img/pexels-max-avans-5056860.jpg" width = 300>
+
+|Lp. |Nazwa:                                                                                                       |rozmiar: | 30 cm | 50 cm | 60 cm |
+|----|-------------------------------------------------------------------------------------------------------------|---------|-------|-------|-------|
+|1.  |MARGHERITA (sos z pomidorów pelati, mozzarella)                                                              |         |19 zł  |30 zł  |40 zł  |
+|2.  |PROSCIUTTO VEGE (sos z pomidorów pelati, mozzarella, tofu)                                                   |         |22 zł  |33 zł  |43 zł  |
+|3.  |CARBONARA VEGE (sos z pomidorów pelati, mozzarella,tofu wędzone, papryczka peperoni)                         |         |24 zł  |35 zł  |45 zł  |
+|4.  |VEGANA (sos z pomidorów pelati, oliwki, zapieczone pomidorki cherry, czosnek, listki bazylii)                |         |25 zł  |36 zł  |46 zł  |
+|5.  |GRECKA (sos z pomidorów pelati, oliwki, pomidorki cherry, cebula czerwona, feta)                             |         |25 zł  |36 zł  |46 zł  |
+
+
+
+
 ## Makarony
 
 <img src = "img/pexels-cottonbro-studio-4057736.jpg" width = 300>
