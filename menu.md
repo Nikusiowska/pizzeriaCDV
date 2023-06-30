@@ -69,6 +69,16 @@
 |5.  |Piwo                                                                                                         |          |10 zł   |15 zł   |
 |6.  |Piwo ciemne                                                                                                  |          |12 zł   |17 zł   |
 
+## Sosy do pizzy
+
+1. Sos pomidorowy - 3 zł
+2. Sos czosnkowy - 3z zł
+3. Sos BBQ - 4 zł
+4. Sos 1000 wysp - 4 zł
+5. Sos miętowy - 4 zł
+6. Sos ostry - 4 zł
+   
+
 
 
 
